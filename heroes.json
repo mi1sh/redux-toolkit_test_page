@@ -1,0 +1,37 @@
+{
+  "heroes": [
+    {
+      "id": "85aab19d-c88c-45ea-88df-748bfc298142",
+      "name": "dfgdfg",
+      "description": "dfgdfgdfgddg",
+      "element": "fire"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
